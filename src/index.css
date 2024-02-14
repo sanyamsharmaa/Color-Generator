@@ -1,0 +1,73 @@
+body {
+  /* margin: 0; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-size: cover;
+    /* background-color: rgb(225, 224, 224); */
+    background-image: url('bacgrnd.png');
+}
+.inp{
+  height: 4.5vw;
+  display: flex;
+  /* background: transparent; */
+  background-color: rgba(248, 248, 248, 0.05);
+  backdrop-filter: blur(5px);
+  box-shadow: 0px 2px 8px 1px rgb(125, 124, 124);
+}
+
+h2{
+  display: flex;
+  margin: .8% 15px 0 15px;
+  /* background-color: rgb(200, 255, 0); */
+
+}
+ .button-addon2{
+  margin: 6% 2px 0 1px;
+  position:relative;
+  top: -3.2vw;
+  left: 12.1vw;
+  height: 200rem ;
+  background-color: rgb(49, 49, 232);
+  height: 2.3vw ;
+}
+.button-addon2:hover{
+  background-color: rgb(0, 0, 244);
+  
+}
+.kkk{
+  /* position:relative;
+  left: 10vw;
+  top: -3.2vw;  */
+   margin: 6% 2px 0 3px;
+  width: 12vw ; 
+  height: 2.5vw;
+}
+/* .frmt{
+  margin: 12% 6px 0 3px;
+  width:10vw;
+  height: -20vw;
+} */
+.ercls{
+  border:2px  red solid;
+}
+.sdpk{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 25px;
+}
+.shd{
+  width: 10vw;
+  height: 10vw;
+  margin: 5px;
+  border-radius: 4%;
+  /* background-color: #0356fc; */
+
+}
+.shd:hover{
+  scale: 102%;
+  box-shadow: -1px -1px 15px grey
+}
+.shh{
+padding: 5px 0 0 5px;
+}
