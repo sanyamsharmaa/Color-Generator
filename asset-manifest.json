@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Color-Generator/static/css/main.595b57b2.css",
+    "main.js": "/Color-Generator/static/js/main.71271757.js",
+    "static/js/787.b084f9e4.chunk.js": "/Color-Generator/static/js/787.b084f9e4.chunk.js",
+    "static/media/bacgrnd.png": "/Color-Generator/static/media/bacgrnd.90a77150e3d1fb001931.png",
+    "index.html": "/Color-Generator/index.html",
+    "main.595b57b2.css.map": "/Color-Generator/static/css/main.595b57b2.css.map",
+    "main.71271757.js.map": "/Color-Generator/static/js/main.71271757.js.map",
+    "787.b084f9e4.chunk.js.map": "/Color-Generator/static/js/787.b084f9e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595b57b2.css",
+    "static/js/main.71271757.js"
+  ]
+}
